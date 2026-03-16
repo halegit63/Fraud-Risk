@@ -43,6 +43,7 @@ The **Bar Chart** segments risk by bucket amount, revealing a massive disparity 
 
 ![Chart 4](Image/fraud_value_by_state.png)
 ![Chart 5](Image/top_10_fraud_value_by_state.png)
+
 The **Geographic Heat Map** and **Top 10 State Bar Chart** illustrate how fraud risk is physically distributed across the network.
 
 * **Localized Commercial Hubs:** Fraud is not evenly distributed; it is highly concentrated in high-density commercial states. **New York (NY)**, **Texas (TX)**, and **Pennsylvania (PA)** account for the highest total fraud value, with NY alone reaching **$0.40M**.
